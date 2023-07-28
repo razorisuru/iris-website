@@ -1,0 +1,84 @@
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:37 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8
+[12-Jul-2023 03:05:37 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sibazhmn/public_html/iris.journal/db.php on line 6
+[12-Jul-2023 03:05:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/sibazhmn/public_html/iris.journal/db.php:8
+Stack trace:
+#0 /home/sibazhmn/public_html/iris.journal/db-search.php(2): require_once()
+#1 {main}
+  thrown in /home/sibazhmn/public_html/iris.journal/db.php on line 8

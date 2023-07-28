@@ -1,0 +1,95 @@
+#linkf {
+  text-decoration: none;
+  text-align: justify;
+  color:#2DA760;
+}
+
+.img-hover-zoom {
+  overflow: hidden;
+  /* [1.2] Hide the overflowing of child elements */
+}
+
+/* [2] Transition property for smooth transformation of images */
+.img-hover-zoom img {
+  transition: transform .5s ease;
+}
+
+/* [3] Finally, transforming the image when container gets hovered */
+.img-hover-zoom:hover img {
+  transform: scale(1.1);
+}
+
+#button {
+  display: inline-block;
+  background-color: #FFBB02;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  transition: background-color .3s,
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+
+#button::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 40px;
+  opacity: .6;
+}
+
+#button:hover {
+  cursor: pointer;
+  background-color: rgb(60, 16, 83);
+}
+
+#button:active {
+  background-color: rgb(255, 255, 255);
+}
+
+#button.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+#ab:hover {
+  background-color: rgb(106, 30, 148);
+  color: white
+}
+
+#acs:hover {
+  background-color: rgb(248, 211, 46);
+}
+
+#dc:hover {
+  color: white;
+}
+
+#dc {
+  color: black;
+}
+
+#linkf:hover {
+  color: rgb(60, 16, 83);
+}
+
+#output {
+  text-decoration: none;
+}
+
+.EB {
+  margin-top: 0.5%;
+}
+
+#topSection {
+  height: 130px;
+}
+
